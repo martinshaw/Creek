@@ -1,0 +1,26 @@
+{
+  "name": "creek",
+  "version": "1.0.0",
+  "description": "Unofficial GUI for the Node Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinshaw/Creek.git"
+  },
+  "keywords": [
+    "npm",
+    "gui",
+    "ui",
+    "installer"
+  ],
+  "author": "15090190@stu.mmu.ac.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinshaw/Creek/issues"
+  },
+  "homepage": "https://github.com/martinshaw/Creek#readme"
+}
